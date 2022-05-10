@@ -1,0 +1,6 @@
+# Show / movie types: String
+
+SHOW_TYPES = {
+  "movies",
+  "series",
+}

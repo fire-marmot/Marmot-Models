@@ -1,0 +1,7 @@
+# Whatever we look up to use for matching country abbreviations/names
+
+COUNTRY = {
+  "United States",
+  "UK",
+  "FR"
+}
