@@ -1,0 +1,6 @@
+{
+  "serviceID": "ID",
+  "name": "string",
+  "base_url":"url",
+  "image":"imageUrl"
+}

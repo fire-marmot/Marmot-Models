@@ -1,0 +1,6 @@
+{
+  "reviewID": "ID",
+  "reviewer": "userID",
+  "movieID": "movieID",
+  "rating": "rating-starts-something"
+}

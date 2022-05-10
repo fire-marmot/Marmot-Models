@@ -1,0 +1,10 @@
+{
+  "userID": "ID",
+  "first_name": "string",
+  "last_name" : "string",
+  "email" : "email",
+  "password":"password",
+  "favorite_movies": ["movieID"],
+  "watched_movies":["movieID"],
+  "liked_movies":["movieID"]
+}
