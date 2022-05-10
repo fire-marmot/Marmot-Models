@@ -1,4 +1,5 @@
 # Whatever we look up to use for matching country abbreviations/names
+# https://pypi.org/project/pycountry/
 
 COUNTRY = {
   "United States",
